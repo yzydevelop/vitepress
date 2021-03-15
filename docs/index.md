@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /logo.jpg
+heroImage: /images/logo.jpg
 heroAlt: Logo image
 heroText: VitePress Docs
 tagline: VitePress Demo
