@@ -2,16 +2,16 @@
 home: true
 heroImage: /images/logo.jpg
 heroAlt: Logo image
-heroText: VitePress Docs
-tagline: VitePress Demo
-actionText: 进入文档
-actionLink: /guide/
+heroText: Hero Title
+tagline: Hero subtitle
+actionText: Let's Go →
+actionLink: /basic/index.html
 features:
-- title: 简单的第一
-  details: 以markdown为中心的项目结构的最小设置可以帮助你专注于写作.
-- title: Vue为动力
-  details: 享受Vue + webpack的开发经验，在markdown中使用Vue组件，并使用Vue开发定制主题.
-- title: 性能
-  details: VitePress为每个页面生成预渲染的静态HTML，并在页面加载后作为SPA运行.
+  - title: Simplicity First
+    details: Minimal setup with markdown-centered project structure helps you focus on writing.
+  - title: Vue-Powered
+    details: Enjoy the dev experience of Vue + webpack, use Vue components in markdown, and develop custom themes with Vue.
+  - title: Performant
+    details: VitePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
 footer: MIT Licensed | Copyright © 2019-present Evan You
 ---

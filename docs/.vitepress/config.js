@@ -1,14 +1,10 @@
 module.exports = {
-  base: "/", //基础路径
   title: "yzydeveloper",
-  description: "VitePress 体验版",
-  markdown: {
-    lineNumbers: true,
-  },
-  base: "./",
+  description: "前端知识体系",
+  // port: 8080,
   themeConfig: {
-    lastUpdated: "更新时间",
     nav: require("./config/nav"),
-    sidebar: require("./config/sider"),
+    sidebar: require("./config/sidebar"),
+    smoothScroll: true,
   },
 };
