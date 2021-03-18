@@ -10,4 +10,12 @@ module.exports = {
       ],
     },
   ],
+  "/buildservice/": [
+    {
+      text: "构建脚本",
+      collapsable: false,
+      sidebarDepth: 1, // 可选的, 默认值是 1
+      children: [{ text: "buildservice", link: "/buildservice/" }],
+    },
+  ],
 };

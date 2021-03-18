@@ -9,7 +9,7 @@ module.exports = [
   },
   {
     text: "工具",
-    link: "/tool/",
+    link: "/buildservice/",
   },
   {
     text: "其他",
