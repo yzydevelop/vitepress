@@ -1,4 +1,5 @@
 module.exports = {
+  // 网页中的rem=实际像素*0.0625
   title: "ONE PIECE",
   description: "ONE PIECE",
   head: [
