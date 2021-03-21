@@ -1,9 +1,5 @@
----
-# 主题列表：juejin, github, smartblue, cyanosis, channing-cyan, fancy, hydrogen, condensed-night-purple, greenwillow, v-green, vue-pro, healer-readable, mk-cute, jzman, geek-black, awesome-green, qklhk-chocolate
-# 贡献主题：https://github.com/xitu/juejin-markdown-themes
-theme: juejin
-highlight:
----
+# buildservice
+
 在网上看到很多进行自动化构建的方案，例如Jenkins、GitLab CI。这种方法也有不好的地方，它需要在服务器上进行编译打包，占用服务器资源，且拓展性较低，这样还是颇为不便的。于是作者根据自身项目的需求，研究了一套拓展性自认为较高的CI工具。
 ## 一、整体思路
 我们需要实现一个工具，当用户在终端输入构建命令时，执行如下步骤
