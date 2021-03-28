@@ -12,6 +12,10 @@ module.exports = [
     link: "/open_source/",
   },
   {
+    text: "杂货铺",
+    link: "/grocery_store/",
+  },
+  {
     text: "前端面试之道",
     items: [
       {
